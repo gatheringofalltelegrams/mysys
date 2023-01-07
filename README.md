@@ -12,3 +12,7 @@ If public, the My Links probably shouldn't lead to your personal links to rememb
 # This is a major WIP as of now.
 I will not be posting files until I am happy with how they are, but after they are posted I may go in and change them as I wish. <br>
 While I am trying to add comments to make this as easy as possible to new coders, it is RECOMMENDED that you do know at least basic html/css. 
+
+# I am very new to code. 
+The code and file organisation here may be completely atrocious. <br>
+Read at own risk to explode from awe at how bad it is.
