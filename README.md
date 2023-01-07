@@ -10,5 +10,5 @@ IF self hosted, the My Links can lead to websites you want to remember, for exam
 If public, the My Links probably shouldn't lead to your personal links to remember, unless you want to. Go wild. I suggest you use these for friend's sites, Patreon, other things you want to be public.<br>
 
 # This is a major WIP as of now.
-I will not be posting files until I am happy with how they are, but after they are posted I may go in and change them as I wish. 
+I will not be posting files until I am happy with how they are, but after they are posted I may go in and change them as I wish. <br>
 While I am trying to add comments to make this as easy as possible to new coders, it is RECOMMENDED that you do know at least basic html/css. 
